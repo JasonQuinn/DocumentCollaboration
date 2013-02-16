@@ -213,3 +213,5 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+/DocumentCollaboration/Scripts/Controllers/Document/Index.js
+/DocumentCollaboration/Scripts/Controllers/Document/Index.js.map
